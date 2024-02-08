@@ -1,3 +1,4 @@
+```
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -110,3 +111,6 @@ int main() {
 
     return 0;
 }
+```
+
+![image](https://github.com/jsamiksha1/ADSA-lab-/assets/101424133/f3a97d04-6a92-4f4f-9435-94da395023a6)
