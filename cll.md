@@ -214,3 +214,5 @@ int main() {
     return 0;
 }
 ```
+![image](https://github.com/jsamiksha1/ADSA-lab-/assets/101424133/576b97f8-1da6-4a10-bafe-a631224743db)
+
