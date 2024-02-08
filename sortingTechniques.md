@@ -1,3 +1,4 @@
+```
 #include <iostream>
 #include <vector>
 
@@ -158,3 +159,6 @@ int main() {
 
     return 0;
 }
+```
+
+![image](https://github.com/jsamiksha1/ADSA-lab-/assets/101424133/276576b9-2312-4709-b89d-c3f22a9b14ac)
