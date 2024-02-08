@@ -1,3 +1,4 @@
+```
 #include <iostream>
 
 using namespace std;
@@ -108,3 +109,5 @@ int main() {
     return 0;
 }
 
+```
+![image](https://github.com/jsamiksha1/ADSA-lab-/assets/101424133/fd5f42df-f010-4907-a47c-6834886fce0c)
